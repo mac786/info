@@ -1,2 +1,2 @@
 # info
-notesonIsl
+Notes on Islam
